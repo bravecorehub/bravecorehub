@@ -1,10 +1,10 @@
 # 🚁 BRAVECORE - Innovative Drone & Robotic Solutions
 
-Welcome to **BraveCore's** official GitHub organization! We are pioneering advanced drone and robotic solutions for defense, security, and surveillance applications.
+Welcome to **BraveCore's** official GitHub organization! We maintain our company codebases, projects, and development frameworks here.
 
 ## About Us
 
-**BraveCore Private Limited** is an Indian technology company based in New Delhi, specializing in cutting-edge hardware, robotics, and intelligent surveillance systems. Established in February 2024, we focus on developing innovative solutions for defense and security sectors.
+**BraveCore Private Limited** is an Indian technology company based in New Delhi, specializing in advanced drone and robotic solutions for defense and security applications. Established in February 2024, we focus on developing innovative technology to serve the defense and security sectors.
 
 ### Mission
 To pioneer real-time intelligence, reconnaissance, and precision engagement capabilities through state-of-the-art, rugged, and cost-effective technology.
@@ -15,8 +15,8 @@ We develop and deploy:
 
 - 🛸 **Advanced Drone Platforms** - High-speed and tactical unmanned aerial vehicles
 - 🤖 **Robotic Systems** - Unmanned ground platforms for surveillance and reconnaissance
-- 📹 **Smart Surveillance Solutions** - Electro-optical infrared (EO-IR) payloads for real-time intelligence
-- 🎯 **Defense Technology** - Precision engagement and battlefield intelligence systems
+- 📹 **Smart Surveillance Solutions** - Intelligent monitoring and real-time intelligence systems
+- 🎯 **Defense Technology** - Precision systems for defense and security applications
 
 ## Our Strengths
 
@@ -28,40 +28,23 @@ We develop and deploy:
 
 ## Our Location
 
-📍 **Headquarters**: Innov8 Aerocity, IGI Airport, New Delhi  
+📍 **Headquarters**: New Delhi, India  
 🏢 **Incubation Hubs**: IIT Delhi Research & Innovation Park | Maker Village Kochi
 
-## Technology & Development
+## This Repository
 
-This GitHub organization hosts our open-source projects, libraries, and tools related to:
+This GitHub organization hosts our internal company projects, including:
 
 - Drone control systems and flight software
 - Robotic platform development frameworks
 - Surveillance and sensor integration modules
-- AI/ML models for real-time intelligence processing
+- AI/ML models for intelligence processing
 - Embedded systems and IoT applications
-
-## Get Involved
-
-We welcome collaborations with:
-
-- 👨‍💻 **Developers** - Contribute to our open-source projects
-- 🔬 **Researchers** - Join us in advancing defense technology
-- 🤝 **Partners** - Explore collaboration opportunities
 
 ## Connect With Us
 
 🌐 **Website**: [bravecore.in](https://www.bravecore.in/)  
 📧 **For inquiries**: Reach out via our official website  
-
----
-
-### Company Details
-
-- **CIN**: U72100DL2024PTC426590
-- **Registered Address**: Innov8 Aerocity, Asset-5A, IGI Airport, South West Delhi
-- **Status**: Active, Private Limited Company
-- **Founded**: February 2024
 
 ---
 
