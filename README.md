@@ -31,15 +31,6 @@ We develop and deploy:
 📍 **Headquarters**: New Delhi, India  
 🏢 **Incubation Hubs**: IIT Delhi Research & Innovation Park | Maker Village Kochi
 
-## This Repository
-
-This GitHub organization hosts our internal company projects, including:
-
-- Drone control systems and flight software
-- Robotic platform development frameworks
-- Surveillance and sensor integration modules
-- AI/ML models for intelligence processing
-- Embedded systems and IoT applications
 
 ## Connect With Us
 
