@@ -1,6 +1,6 @@
 #  BRAVECORE - Innovative Drone & Robotic Solutions
 
-Welcome to **BraveCore's** official GitHub organization! We maintain our company codebases, projects, and development frameworks here.
+Welcome to **BraveCore's** official GitHub organization!
 
 ## About Us
 
